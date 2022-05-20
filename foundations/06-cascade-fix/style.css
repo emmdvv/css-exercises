@@ -25,7 +25,7 @@
   font-size: 20px;
 }
 
-/*changed .child below div.text and changed to div.child*/
+/* moved .child below div.text and changed from .child to div.child*/
 div.text {
   color: green;
   font-size: 22px;
